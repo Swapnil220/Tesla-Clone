@@ -10,28 +10,28 @@ function Home() {
                 description="Order Online For Touchless Delivery"
                 backgroundImg="model-s.jpg"
                 leftBtnText="custom order"
-                rightBtnText="exising inventory"
+                rightBtnText="existing inventory"
             />
             <Section 
                 title="Model Y"
                 description="Order Online For Touchless Delivery"
                 backgroundImg="model-y.jpg"
                 leftBtnText="custom order"
-                rightBtnText="exising inventory"
+                rightBtnText="existing inventory"
             />
             <Section 
                 title="Model 3"
                 description="Order Online For Touchless Delivery"
                 backgroundImg="model-3.jpg"
                 leftBtnText="custom order"
-                rightBtnText="exising inventory"
+                rightBtnText="existing inventory"
             />
             <Section 
                 title="Model X"
                 description="Order Online For Touchless Delivery"
                 backgroundImg="model-x.jpg"
                 leftBtnText="custom order"
-                rightBtnText="exising inventory"
+                rightBtnText="existing inventory"
             />
             <Section 
                 title="Lowest Cast Solar Panels In America "
